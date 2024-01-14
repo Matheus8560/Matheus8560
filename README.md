@@ -4,7 +4,7 @@
 
 I'm a full stack developer who loves technology, hardware and games. 
 
-</div>3C873A
+</div>
 
 ## Languages and technologies that I use
 
