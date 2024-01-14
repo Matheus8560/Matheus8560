@@ -19,7 +19,7 @@ I'm a full stack developer who loves technology, hardware and games.
 ![Badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
 ![Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Badge](https://img.shields.io/badge/CodeIgniter-F05032?style=for-the-badge&logo=CodeIgniter&logoColor=white)
-![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
